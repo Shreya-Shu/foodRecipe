@@ -1,12 +1,49 @@
-# React + Vite
+# 🍽️ Food Recipe App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and simple React-based web application that allows users to explore delicious recipes fetched from an external API. The app displays detailed recipe information including ingredients, instructions, and more.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to view the live site](https://food-recipe-five-murex.vercel.app/52901)
 
-## Expanding the ESLint configuration
+## 📂 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [GitHub - Shreya-Shu/foodRecipe](https://github.com/Shreya-Shu/foodRecipe)
+
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ **React JS** – Frontend UI
+- 🌐 **Fetch API** – For retrieving recipe data
+- 💅 **CSS** – For basic styling
+- 🖥️ **Vercel** – Deployment platform
+
+---
+
+## 📸 Features
+
+- ✅ View detailed recipe information
+- ✅ Easy-to-read layout
+- ✅ Fully responsive design
+- ✅ API integration for dynamic content
+- ✅ Clean and modular React components
+
+---
+
+## 📦 Installation Instructions
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Shreya-Shu/foodRecipe.git
+
+# Navigate to the project folder
+cd foodRecipe
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm start
