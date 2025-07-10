@@ -4,7 +4,7 @@ A sleek and simple React-based web application that allows users to explore deli
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://food-recipe-five-murex.vercel.app/52901)
+👉 [Click here to view the live site](https://food-recipe-five-murex.vercel.app/)
 
 ## 📂 GitHub Repository
 
